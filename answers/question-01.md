@@ -1,3 +1,2 @@
-### Question 1
-## ???
-# Answer Here 
+### Git status is a way to check if a branch has files ready to commit
+
